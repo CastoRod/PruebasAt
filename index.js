@@ -6,14 +6,3 @@ app.use("/", express.static("public/index.html"))
 app.listen(80);
 
 console.log("Servidor Listo");
-
-
-
-
-
-
-
-
-
-
-
